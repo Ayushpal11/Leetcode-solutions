@@ -20,3 +20,6 @@ class Solution {
         return node;
     }
 }
+
+//O(N)
+//O(1)
