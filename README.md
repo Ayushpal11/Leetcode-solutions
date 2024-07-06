@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0493-reverse-pairs) |
@@ -62,9 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0050-powx-n) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
