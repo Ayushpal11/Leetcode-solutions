@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [1720-crawler-log-folder](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
