@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0493-reverse-pairs) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Union Find
 |  |
 | ------- |
@@ -57,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -114,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
