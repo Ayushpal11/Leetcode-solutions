@@ -8,3 +8,6 @@ class Solution {
         return true;
     }
 }
+
+//O(N)
+//O(1)
