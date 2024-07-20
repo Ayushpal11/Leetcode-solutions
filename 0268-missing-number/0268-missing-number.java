@@ -1,3 +1,5 @@
+
+
 class Solution {
     public int missingNumber(int[] nums) {
         int N = nums.length;
@@ -10,6 +12,9 @@ class Solution {
       return missingNum;
     }
 }
+//O(N)
+//O(1)
+
 
 
 //Brute
