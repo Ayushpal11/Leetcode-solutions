@@ -1,3 +1,4 @@
+//Optimal
 class Solution {
     public int singleNumber(int[] nums) {
         int xor = 0;
@@ -7,6 +8,9 @@ class Solution {
         return xor;
     }   
 }
+
+//O(N)
+//O(1)
 
 // Brute
 // for (int i = 1 ; i<nums.length; i++){
