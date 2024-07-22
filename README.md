@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0268-missing-number) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Union Find
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0169-majority-element) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Stack
 |  |
 | ------- |
