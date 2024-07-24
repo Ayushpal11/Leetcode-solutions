@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
