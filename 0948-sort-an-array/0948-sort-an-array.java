@@ -1,6 +1,10 @@
 class Solution {
-    public int[] sortArray(int[] nums) {
-        Arrays.sort(nums);
-        return nums;
+    public int[] sortArray(int[] essy) {
+        Arrays.sort(essy);
+
+        for (int x : essy){
+            System.out.print(x + " ");
+        }
+        return essy;
     }
 }
