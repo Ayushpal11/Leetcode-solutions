@@ -13,7 +13,7 @@ class Solution {
                 return true;
             }
             else if(matrix[row][col]<target){
-                    low=mid+1;
+                low=mid+1;
             }
             else {
                 high = mid -1 ;
