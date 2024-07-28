@@ -24,8 +24,7 @@ class Solution {
 
         for (int row =0 ; row<= n-1; row++){
             for (int col = 0; col < matrix[row].length; col++){
-                int num = matrix[row][col];
-                if (num == target){
+                if (matrix[row][col] == target){
                     return true;
                 }
             }
