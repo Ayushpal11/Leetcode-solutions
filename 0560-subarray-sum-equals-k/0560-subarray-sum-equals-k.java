@@ -2,6 +2,9 @@ class Solution {
     public int subarraySum(int[] nums, int k) {
         HashMap<Integer,Integer> mpp = new HashMap<>();
 
+        // O(n + log n)
+        // O(1)
+
         int preSum = 0 ;
         int cnt = 0;
         mpp.put(0,1);
