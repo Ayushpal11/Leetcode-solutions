@@ -3,7 +3,7 @@ class Solution {
         HashMap<Integer,Integer> mpp = new HashMap<>();
 
         // O(n + log n)
-        // O(1)
+        // O(N)
 
         int preSum = 0 ;
         int cnt = 0;
