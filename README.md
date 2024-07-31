@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1720-crawler-log-folder](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2571-find-the-pivot-integer](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
