@@ -5,3 +5,5 @@ class Solution {
         return pivot * pivot == sum ? pivot : -1;
     }
 }
+
+ // TC AND SC O(1)
