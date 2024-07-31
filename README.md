@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2502-sort-the-people](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2634-minimum-common-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2502-sort-the-people](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2634-minimum-common-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Union Find
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2634-minimum-common-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0792-binary-search) |
+| [2634-minimum-common-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
