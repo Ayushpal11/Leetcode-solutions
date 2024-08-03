@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1720-crawler-log-folder](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2573-remove-nodes-from-linked-list) |
@@ -268,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0319-bulb-switcher) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
