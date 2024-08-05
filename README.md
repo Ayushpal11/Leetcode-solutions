@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0319-bulb-switcher) |
+| [1642-water-bottles](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1642-water-bottles) |
 | [2571-find-the-pivot-integer](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 ## Recursion
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0495-teemo-attacking) |
+| [1642-water-bottles](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
