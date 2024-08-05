@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1217-relative-sort-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1720-crawler-log-folder](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0807-custom-sort-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0807-custom-sort-string) |
+| [1217-relative-sort-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1217-relative-sort-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0807-custom-sort-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0807-custom-sort-string) |
 | [0948-sort-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1217-relative-sort-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1217-relative-sort-array) |
 ## Trie
 |  |
 | ------- |
