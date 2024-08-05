@@ -319,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
