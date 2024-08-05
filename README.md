@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [1642-water-bottles](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1642-water-bottles) |
 | [2571-find-the-pivot-integer](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
+| [2645-pass-the-pillow](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2645-pass-the-pillow](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2645-pass-the-pillow) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
