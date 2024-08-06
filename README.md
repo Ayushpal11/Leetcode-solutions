@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0807-custom-sort-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0807-custom-sort-string) |
 | [1720-crawler-log-folder](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
