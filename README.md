@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0948-sort-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1217-relative-sort-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1217-relative-sort-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0807-custom-sort-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0807-custom-sort-string) |
+| [0966-binary-subarrays-with-sum](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1217-relative-sort-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1217-relative-sort-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2571-find-the-pivot-integer](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 ## Monotonic Stack
@@ -380,5 +383,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0966-binary-subarrays-with-sum](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
