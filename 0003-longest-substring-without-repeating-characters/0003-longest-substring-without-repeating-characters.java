@@ -24,5 +24,6 @@ class Solution {
             right++;
         }
         return len;
-    }
+    }// SC O(N)
+    // TC O(N)
 }
