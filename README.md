@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1217-relative-sort-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0807-custom-sort-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0807-custom-sort-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1720-crawler-log-folder](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -392,4 +394,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
