@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0319-bulb-switcher](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0492-construct-the-rectangle](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0504-base-7) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1642-water-bottles) |
