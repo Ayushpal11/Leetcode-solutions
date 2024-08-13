@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -444,5 +445,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
