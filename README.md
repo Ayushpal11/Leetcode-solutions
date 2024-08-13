@@ -385,24 +385,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
