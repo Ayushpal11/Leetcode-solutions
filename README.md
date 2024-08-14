@@ -474,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0494-target-sum) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
