@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0807-custom-sort-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0807-custom-sort-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
