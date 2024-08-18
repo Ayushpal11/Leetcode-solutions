@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2634-minimum-common-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2634-minimum-common-value) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2502-sort-the-people](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0890-lemonade-change) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 ## String Matching
 |  |
 | ------- |
