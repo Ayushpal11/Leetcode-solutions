@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0792-binary-search) |
+| [0814-smallest-rotation-with-highest-score](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0814-smallest-rotation-with-highest-score](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
