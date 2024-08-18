@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1642-water-bottles) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2491-smallest-even-multiple](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 | [2645-pass-the-pillow](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2645-pass-the-pillow) |
 ## Recursion
@@ -511,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1203-print-in-order) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
