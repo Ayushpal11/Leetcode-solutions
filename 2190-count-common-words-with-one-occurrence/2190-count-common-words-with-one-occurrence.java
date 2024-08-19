@@ -12,7 +12,7 @@ class Solution {
         } 
 
         for (String s: words2){
-            if (mpp1.containsKey(s) && (mpp1.get(s)==1) && mpp2.ge(ts) == 1){
+            if (mpp1.containsKey(s) && (mpp1.get(s)==1) && mpp2.get(s) == 1){
                 cnt++;
             }
         }
