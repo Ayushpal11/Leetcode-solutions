@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2122-count-special-quadruplets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2181-smallest-index-with-equal-value) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2386-min-max-game](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2386-min-max-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2122-count-special-quadruplets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2502-sort-the-people](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2634-minimum-common-value) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0169-majority-element) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2502-sort-the-people](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
