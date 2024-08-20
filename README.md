@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2386-min-max-game](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2386-min-max-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2502-sort-the-people](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2634-minimum-common-value) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
