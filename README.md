@@ -494,12 +494,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 ## Breadth-First Search
 |  |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 ## Binary Tree
 |  |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Quickselect
 |  |
 | ------- |
@@ -556,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Data Stream
 |  |
 | ------- |
