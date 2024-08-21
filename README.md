@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0814-smallest-rotation-with-highest-score) |
+| [0823-split-array-with-same-average](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0823-split-array-with-same-average) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0507-perfect-number) |
+| [0823-split-array-with-same-average](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0823-split-array-with-same-average) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1240-stone-game-ii) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0823-split-array-with-same-average](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0823-split-array-with-same-average) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0494-target-sum](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0823-split-array-with-same-average](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0823-split-array-with-same-average) |
 | [1013-fibonacci-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -583,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Bitmask
+|  |
+| ------- |
+| [0823-split-array-with-same-average](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0823-split-array-with-same-average) |
 <!---LeetCode Topics End-->
