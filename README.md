@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0823-split-array-with-same-average](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0823-split-array-with-same-average) |
+| [0824-number-of-lines-to-write-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0782-jewels-and-stones](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0807-custom-sort-string) |
+| [0824-number-of-lines-to-write-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1720-crawler-log-folder](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
