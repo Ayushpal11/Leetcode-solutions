@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0777-toeplitz-matrix](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0777-toeplitz-matrix) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0807-custom-sort-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0807-custom-sort-string) |
 | [0948-sort-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1217-relative-sort-array) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1720-crawler-log-folder](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2573-remove-nodes-from-linked-list) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Brainteaser
 |  |
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2816-lexicographically-smallest-palindrome) |
