@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 | [2645-pass-the-pillow](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2645-pass-the-pillow) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Recursion
 |  |
 | ------- |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2386-min-max-game](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2386-min-max-game) |
 | [2645-pass-the-pillow](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2645-pass-the-pillow) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1240-stone-game-ii) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Memoization
 |  |
 | ------- |
