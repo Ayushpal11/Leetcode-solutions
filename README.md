@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 | [2645-pass-the-pillow](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2645-pass-the-pillow) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2573-remove-nodes-from-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2573-remove-nodes-from-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
