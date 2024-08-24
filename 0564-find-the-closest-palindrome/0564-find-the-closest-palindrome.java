@@ -24,8 +24,6 @@ class Solution {
         }
         return sol;
     }
-
-    // Find the next palindrome, just greater than n.
     private long nextPalindrome(long num) {
         long left = num, right = (long) 1e18;
         long sol = Long.MIN_VALUE;
