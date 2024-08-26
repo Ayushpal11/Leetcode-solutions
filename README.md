@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1720-crawler-log-folder](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 ## Breadth-First Search
