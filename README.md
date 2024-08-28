@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2035-count-sub-islands](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2035-count-sub-islands) |
 | [2058-concatenation-of-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
+| [2035-count-sub-islands](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2035-count-sub-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2035-count-sub-islands](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2035-count-sub-islands) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Bit Manipulation
 |  |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
+| [2035-count-sub-islands](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
+| [2035-count-sub-islands](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
