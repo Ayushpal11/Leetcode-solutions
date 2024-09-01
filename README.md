@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## String
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2386-min-max-game](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2386-min-max-game) |
 | [2645-pass-the-pillow](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2645-pass-the-pillow) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
