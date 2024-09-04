@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0823-split-array-with-same-average](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0823-split-array-with-same-average) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -690,4 +694,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1325-path-with-maximum-probability) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
