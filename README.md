@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0169-majority-element) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0494-target-sum](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
