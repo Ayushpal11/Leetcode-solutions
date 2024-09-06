@@ -19,7 +19,6 @@ class Solution {
         while (head != null && set.contains(head.val)){
             head = head.next;
         }
-        if (head == null) return null;
         ListNode curr = head;
         while (curr.next != null){
             if (set.contains(curr.next.val)){
