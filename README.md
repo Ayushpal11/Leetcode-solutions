@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2035-count-sub-islands) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
