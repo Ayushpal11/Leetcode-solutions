@@ -761,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0607-sales-person) |
+| [1480-movie-rating](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1480-movie-rating) |
 ## Concurrency
 |  |
 | ------- |
