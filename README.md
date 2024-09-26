@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0777-toeplitz-matrix](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0777-toeplitz-matrix) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0792-binary-search) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0729-my-calendar-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0729-my-calendar-i) |
 ## Counting
 |  |
 | ------- |
@@ -603,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0729-my-calendar-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
