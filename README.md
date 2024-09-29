@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1078-remove-outermost-parentheses](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1720-crawler-log-folder](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2035-count-sub-islands) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Quickselect
@@ -785,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0494-target-sum) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Database
 |  |
 | ------- |
