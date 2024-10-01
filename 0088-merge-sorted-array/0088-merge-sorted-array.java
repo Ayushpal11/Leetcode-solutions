@@ -5,7 +5,6 @@ class Solution {
             nums1[i] = nums2[c];
             c++;
         }
-
         Arrays.sort(nums1);
     }
 }
