@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2634-minimum-common-value) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2727-number-of-senior-citizens](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2502-sort-the-people](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2634-minimum-common-value) |
 | [2755-extra-characters-in-a-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2634-minimum-common-value) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Binary Search
 |  |
