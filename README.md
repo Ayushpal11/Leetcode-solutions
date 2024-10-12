@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-min-max-game](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2386-min-max-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2634-minimum-common-value) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -636,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2044-number-of-wonderful-substrings](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2044-number-of-wonderful-substrings) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2571-find-the-pivot-integer](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 ## Monotonic Stack
 |  |
@@ -792,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3528-reach-end-of-array-with-max-score) |
