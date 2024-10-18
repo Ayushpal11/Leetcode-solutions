@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2122-count-special-quadruplets) |
 | [2155-find-missing-observations](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2181-smallest-index-with-equal-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2181-smallest-index-with-equal-value) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-split-array-with-same-average](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0823-split-array-with-same-average) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2044-number-of-wonderful-substrings](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2044-number-of-wonderful-substrings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Dynamic Programming
 |  |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0494-target-sum) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Database
 |  |
 | ------- |
@@ -867,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2122-count-special-quadruplets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Game Theory
 |  |
 | ------- |
