@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Matrix
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1304-longest-happy-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
