@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2554-minimum-total-distance-traveled](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2634-minimum-common-value](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2634-minimum-common-value) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2554-minimum-total-distance-traveled](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Binary Search
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2554-minimum-total-distance-traveled](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2755-extra-characters-in-a-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2755-extra-characters-in-a-string) |
 ## Linked List
 |  |
