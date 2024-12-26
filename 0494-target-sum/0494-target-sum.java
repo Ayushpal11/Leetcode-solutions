@@ -1,7 +1,5 @@
 class Solution {
-
     int cnt = 0;
-
     public void calculate(int[] nums, int i , int sum ,int target){
         if (i == nums.length){
             if (sum == target){
