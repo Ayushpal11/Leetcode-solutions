@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2044-number-of-wonderful-substrings](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2044-number-of-wonderful-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2122-count-special-quadruplets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-split-array-with-same-average](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0823-split-array-with-same-average) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2044-number-of-wonderful-substrings](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2044-number-of-wonderful-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Dynamic Programming
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2044-number-of-wonderful-substrings](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2044-number-of-wonderful-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2044-number-of-wonderful-substrings](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2044-number-of-wonderful-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2571-find-the-pivot-integer](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
