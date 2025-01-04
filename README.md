@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2386-min-max-game](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2386-min-max-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2044-number-of-wonderful-substrings](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2044-number-of-wonderful-substrings) |
+| [2358-number-of-ways-to-split-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2571-find-the-pivot-integer](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 ## Monotonic Stack
