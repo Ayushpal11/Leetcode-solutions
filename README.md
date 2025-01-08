@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3379-score-of-a-string) |
 ## Stack
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
 |  |
@@ -860,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -939,10 +943,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
