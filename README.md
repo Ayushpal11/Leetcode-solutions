@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2727-number-of-senior-citizens](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2755-extra-characters-in-a-string) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2035-count-sub-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2035-count-sub-islands](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2035-count-sub-islands) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -777,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2035-count-sub-islands) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -794,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2035-count-sub-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
