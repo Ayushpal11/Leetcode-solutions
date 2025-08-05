@@ -928,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0607-sales-person](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/0607-sales-person) |
 | [1480-movie-rating](https://github.com/Ayushpal11/Leetcode-solutions/tree/master/1480-movie-rating) |
 ## Concurrency
